@@ -38,10 +38,10 @@
 <br />
 
 ---
+[![ThushalTK's GitHub stats](https://github-readme-stats.vercel.app/api?username=thushaltk)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thushaltk)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ThushalTK's GitHub stats](https://github-readme-stats.vercel.app/api?username=thushaltk)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/thushaltk
 [instagram]: https://www.instagram.com/thushaltk/
