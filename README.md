@@ -1,7 +1,6 @@
 ### Hi, I'm Thushal 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/thushaltk?ref_src=twsrc%5Etfw)
+[![Twitter Follow](https://img.shields.io/twitter/follow/thushaltk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/thushaltk?ref_src=twsrc%5Etfw)
 
 
 ## I'm a Student, Developer, and Tech Enthusiast!!
@@ -41,18 +40,6 @@
 <br />
 
 ---
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/4) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-2. 🗣 Commented on [#4](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/4) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-3. ❗️ Closed issue [#3](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/3) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-4. 🗣 Commented on [#3](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/3) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-5. 🗣 Commented on [#1](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/1) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-<!--END_SECTION:activity-->
-
-</details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thushaltk)](https://github.com/anuraghazra/github-readme-stats)
 
