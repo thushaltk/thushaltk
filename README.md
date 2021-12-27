@@ -1,4 +1,4 @@
-### Hi, I'm Thushal 👋 
+### Hi, I'm Thushal TK 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/thushaltk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/thushaltk?ref_src=twsrc%5Etfw)
 
