@@ -8,7 +8,7 @@
 - 🎓 BSc. (Hons) in Information Technology specialized in Software Engineering (UG) - SLIIT
 - 🎓 Bachelor in Information Communication Technology (Hons.) (UG) - University of Kelaniya - Sri Lanka   
 - 👯 Willing collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Learn VR and Game development
 - ⚡ Fun fact: Love fragrances 🌿😝
 
 ### Connect with me:
