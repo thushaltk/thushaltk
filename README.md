@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thushaltk&label=Profile%20views&color=0e75b6&style=flat" alt="thushaltk" /> </p>
 <p align="left"> <a href="https://twitter.com/thushaltk" target="blank"><img src="https://img.shields.io/twitter/follow/thushaltk?logo=twitter&style=for-the-badge" alt="thushaltk" /></a> </p>
 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCBvcttQuZS05ue8A-icjARw?logo=youtube&logoColor=red&style=for-the-badge)
+
 - 🎓 BSc. (Hons) in Information Technology specialized in Software Engineering (UG) - SLIIT
 - 🎓 Bachelor in Information Communication Technology (Hons.) (UG) - University of Kelaniya - Sri Lanka   
 - 👯 Willing collaborate with other content creators
