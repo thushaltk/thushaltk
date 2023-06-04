@@ -8,10 +8,10 @@
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCBvcttQuZS05ue8A-icjARw?logo=youtube&logoColor=red&style=for-the-badge)
 
-- 🎓 BSc. (Hons) in Information Technology specialized in Software Engineering (UG) - SLIIT
+- 🎓 BSc. (Hons) in Information Technology specialized in Software Engineering (Second Upper) - SLIIT
 - 🎓 Bachelor in Information Communication Technology (Hons.) (UG) - University of Kelaniya - Sri Lanka   
 - 👯 Willing collaborate with other content creators
-- 🥅 2022 Goals: Learn VR and Game development
+- 🥅 2023 Goals: Learn VR and Game development
 - ⚡ Fun fact: Love fragrances 🌿😝
 
 <h3 align="left">Connect with me:</h3>
