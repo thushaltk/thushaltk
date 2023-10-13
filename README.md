@@ -8,7 +8,7 @@
 
 - 🎓 BSc. (Hons) in Information Technology specialized in Software Engineering (Second Upper) - SLIIT
 - 🎓 Bachelor in Information Communication Technology (Hons.) (UG) - University of Kelaniya - Sri Lanka   
-- 👯 Willing collaborate with other content creators
+- 👯 Web Developer and Video Game Developer
 - 🥅 2023 Goals: Learn VR and Game development
 - ⚡ Fun fact: Love fragrances 🌿😝
 
