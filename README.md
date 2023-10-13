@@ -37,6 +37,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thushaltk&show_icons=true&locale=en&layout=compact" alt="thushaltk" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thushaltk&show_icons=true&locale=en" alt="thushaltk" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thushaltk&" alt="thushaltk" /></p>
-
-## Snake eating my contribution graph
-![snake gif](https://github.com/thushaltk/thushaltk/blob/output/github-contribution-grid-snake.gif)
